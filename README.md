@@ -1,6 +1,5 @@
-## Hi there 👋
 
-# Hi, I'm Relam AlOrri 👋
+# Hello there, I'm Relam AlOrri 👋
 
 Computer Science student at King Abdulaziz University passionate about Artificial Intelligence, data-driven systems, and building technology that creates real impact.
 
