@@ -1,16 +1,30 @@
 # Hi, I'm Relam AlOrri 👋
 
-Computer Science student at King Abdulaziz University, passionate about AI, data-driven systems, and building meaningful tech.
+Computer Science student at King Abdulaziz University passionate about Artificial Intelligence, data-driven systems, and building technology that creates real impact.
+
+I enjoy combining technical problem-solving with creativity, whether through AI research, software engineering, product design, or startup innovation.
+
+📍 Jeddah, Saudi Arabia
 
 ---
 
 ## About Me
 
-- 🎓 Studying Computer Science at KAU
-- 🧬 Former Bioinformatics Intern at KAUST — knowledge graph research & AI
-- 🌟 Former Creative AI Specialist at STLLR Network — matchmaking algorithms & recommendation systems
-- 🎨 Former Creative Intern at Ctrl C
-- 📍 Based in Jeddah, Saudi Arabia
+- 🎓 Computer Science student at King Abdulaziz University (KAU)
+- 🤖 Passionate about AI, machine learning, and intelligent systems
+- 🧬 Former Bioinformatics Intern at KAUST — worked on knowledge graphs and AI-driven research
+- 🌟 Former Creative AI Specialist at STLLR Network — recommendation systems & matchmaking algorithms
+- 🎨 Former Creative Intern at Ctrl C, Nawawi Studios, and The Untitled Project
+- 🚀 Active in the community through mentoring, hackathons, and innovation programs leading the Microsoft LSA Club
+- 🎤 Public speaker, moderator, and event organizer
+- 🧠 Self-learner who enjoys building meaningful and user-centered technology
+
+---
+
+## Experience & Achievements
+
+- 🏆 3rd Place Winner — KAUST - Best Technical Solution Award
+- 🏆 3rd Place Winner — Best AI Recommendation System Award — Bupa Hackathon
 
 ---
 
@@ -24,20 +38,50 @@ Computer Science student at King Abdulaziz University, passionate about AI, data
 | [bio-kg](https://github.com/Relamalorri/bio-kg) | Biomedical knowledge graph integrating genomic & clinical data with RAG + LLMs | Bioinformatics · KG · LLM |
 | [library-system](https://github.com/Relamalorri/library-system) | Relational database system for library management — Oracle SQL | Database · SQL · ER Design |
 | [Ruya](https://github.com/Relamalorri/Ruya) | Coffee sales dashboard with ML forecasting — ARIMA, LSTM, Prophet | ML · Forecasting · Streamlit |
-| [bupa-hackathon](https://github.com/Relamalorri/bupa-hackathon) | Healthcare hackathon project — Bupa Saudi Arabia | Hackathon · Healthcare · AI |
+| [bupa-hackathon](https://github.com/Relamalorri/bupa-hackathon) | Healthcare hackathon — Best AI Recommendation System Award — Bupa Saudi Arabia | Hackathon · Healthcare · AI |
 
 ---
 
-## Skills
+## Technical Skills
 
-- Python · PyTorch · Jupyter Notebook
-- Software Engineering · UML · Requirements Analysis
-- UX/UI Design · Figma · Human-Centered Design
-- Knowledge Graphs · Bioinformatics · Data Analysis
-- Oracle SQL · Database Design · Normalization
+### Languages & Tools
+- Python
+- Java
+- PyTorch
+- Jupyter Notebook
+- Git & GitHub
+
+### AI & Data
+- Machine Learning
+- Deep Learning
+- Recommendation Systems
+- Knowledge Graphs
+- Data Analysis
+- Bioinformatics
+
+### Software & Design
+- Software Engineering
+- UML & System Design
+- Requirements Analysis
+- UX/UI Design
+- Figma
+- Human-Centered Design
+
+---
+
+## Interests
+
+- Artificial Intelligence
+- Startups & Entrepreneurship
+- Product Development
+- Human-Centered Technology
+- Innovation & Emerging Technologies
 
 ---
 
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Relam_AlOrri-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/relamalorri)
+[![GitHub](https://img.shields.io/badge/GitHub-Relamalorri-black?style=flat&logo=github)](https://github.com/Relamalorri)
+
+---
